@@ -6,5 +6,6 @@
 	[[3. TweenAnimationBuilder]]
 
 ### #2. Explicit Animations
-	[[1.Implicit vs Explicit]]
+	[[1. Implicit vs Explicit]]
+	[[2. AnimationController]]
 	
