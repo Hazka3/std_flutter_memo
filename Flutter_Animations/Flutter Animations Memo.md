@@ -8,4 +8,5 @@
 ### #2. Explicit Animations
 	[[1. Implicit vs Explicit]]
 	[[2. AnimationController]]
+	[[3. AnimatedBuilder]]
 	
