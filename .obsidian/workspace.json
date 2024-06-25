@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter_Animations/2. Explicit Animations/3. AnimatedBuilder.md",
+                "file": "Flutter_Animations/2. Explicit Animations/4. Explicit Widgets.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 336.5
   },
   "right": {
     "id": "1838e04987166360",
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter_Animations/2. Explicit Animations/3. AnimatedBuilder.md",
+                "file": "Flutter_Animations/2. Explicit Animations/4. Explicit Widgets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter_Animations/2. Explicit Animations/3. AnimatedBuilder.md",
+                "file": "Flutter_Animations/2. Explicit Animations/4. Explicit Widgets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter_Animations/2. Explicit Animations/3. AnimatedBuilder.md"
+                "file": "Flutter_Animations/2. Explicit Animations/4. Explicit Widgets.md"
               }
             }
           }
@@ -185,17 +185,19 @@
   },
   "active": "39ac21acb9940ee0",
   "lastOpenFiles": [
+    "Flutter_Animations/2. Explicit Animations/file/Explicit_widgets_1.gif",
+    "Flutter_Animations/1. Implicit Animations/file/Implicitly_Animated_widgets_1.gif",
+    "Flutter_Animations/1. Implicit Animations/1. Implicitly Animated Widgets.md",
+    "Flutter_Animations/2. Explicit Animations/file/AnimatedBuilder_1.gif",
+    "Flutter_Animations/2. Explicit Animations/file/Implicit_vs_Explicit_1.png",
+    "Flutter_Animations/2. Explicit Animations/1. Implicit vs Explicit.md",
     "Flutter_Animations/2. Explicit Animations/4. Explicit Widgets.md",
     "Flutter_Animations/2. Explicit Animations/3. AnimatedBuilder.md",
-    "Flutter_Animations/2. Explicit Animations/1. Implicit vs Explicit.md",
-    "Flutter_Animations/1. Implicit Animations/1. Implicitly Animated Widgets.md",
+    "Flutter_Animations/2. Explicit Animations/2. AnimationController.md",
     "Flutter_Animations/1. Implicit Animations/2. AnimatedContainer.md",
     "Flutter_Animations/1. Implicit Animations/3. TweenAnimationBuilder.md",
-    "Flutter_Animations/2. Explicit Animations/2. AnimationController.md",
     "Flutter_Animations/Flutter Animations Memo.md",
-    "Flutter_Animations/2. Explicit Animations/file/AnimatedBuilder_1.gif",
     "1. Implicit Animated Widgets.md",
-    "Flutter_Animations/2. Explicit Animations/file/Implicit_vs_Explicit_1.png",
     "1.Implicit vs Explicit.md",
     "Flutter_Animations/2. Explicit Animations/pic",
     "Flutter_Animations/2. Explicit Animations/file",
@@ -213,7 +215,6 @@
     "Flutter_Animations/1. Implicit Animations/file/AnimatedContainer_1.gif",
     "Flutter_Animations/1. Implicit Animations/file",
     "無題のファイル.canvas",
-    "Flutter_Animations/1. Implicit Animations/file/Implicitly_Animated_widget_asis.gif",
     "Flutter_Animations/1. Implicit Animations",
     "title.md",
     "link!.md",
