@@ -1,1 +1,8 @@
 /.ob
+.DS_Store
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/*-plugins.json
+.obsidian/plugins/recent-files-obsidian/data.json
+.obsidian/plugins/obsidian-git/data.json
+.obsidian/appearance.json

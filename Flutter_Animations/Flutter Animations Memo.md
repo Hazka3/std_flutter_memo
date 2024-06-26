@@ -10,3 +10,4 @@
 	[[2. AnimationController]]
 	[[3. AnimatedBuilder]]
 	[[4. Explicit Widgets]]
+	[[5. CurvedAnimation]]
