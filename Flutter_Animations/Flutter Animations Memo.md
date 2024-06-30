@@ -11,3 +11,6 @@
 	[[3. AnimatedBuilder]]
 	[[4. Explicit Widgets]]
 	[[5. CurvedAnimation]]
+	[[6. ValueNotifier]]
+
+	
