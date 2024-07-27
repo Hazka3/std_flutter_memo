@@ -21,4 +21,5 @@
 ### 4. Swiping Cards Project
 	[[4-1. Bounds]]
 	[[4-2. Tween Transform]]
-	[[4-3. Tween Transform - 2]]
+	[[4-3. Tween Transform (2)]]
+	[[4-4. Infinite Stack Logic]]
