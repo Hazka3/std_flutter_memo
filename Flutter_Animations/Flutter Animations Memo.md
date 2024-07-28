@@ -26,3 +26,5 @@
 
 ### 5. Music Player Project
 	[[5-1. PageView & PageController]]
+	[[5-2. AnimatedSwitcher & BackdropFilter]]
+	
