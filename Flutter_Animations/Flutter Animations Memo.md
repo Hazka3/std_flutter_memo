@@ -30,4 +30,5 @@
 	[[5-3. Scale logic of images]]
 	[[5-4. Hero animation]]
 	[[5-5. PageRouteBuilder]]
+	[[5-6. Marquee]]
 	
