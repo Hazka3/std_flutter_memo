@@ -31,4 +31,6 @@
 	[[5-4. Hero animation]]
 	[[5-5. PageRouteBuilder]]
 	[[5-6. Marquee]]
+	[[5-7 AnimatedIcon (+α Lottie)]]
+	
 	
