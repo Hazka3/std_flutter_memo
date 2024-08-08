@@ -31,6 +31,10 @@
 	[[5-4. Hero animation]]
 	[[5-5. PageRouteBuilder]]
 	[[5-6. Marquee]]
-	[[5-7 AnimatedIcon (+α Lottie)]]
-	
+	[[5-7. AnimatedIcon (+α Lottie)]]
+	[[5-8. CustomPainter - Volume gauge]]
+	[[5-9. Staggered Animation]]
+	[[5-10. Covered Menu ]]
+	[[5-11. Interval]]
+	[[5-12. Interval (2)]]
 	
