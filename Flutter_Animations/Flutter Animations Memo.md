@@ -37,4 +37,7 @@
 	[[5-10. Covered Menu ]]
 	[[5-11. Interval]]
 	[[5-12. Interval (2)]]
-	
+
+### 6.RIVE
+	[[6-1. Importing Animations]]
+	[[6-2. Custom Animation by RIVE editor]]
