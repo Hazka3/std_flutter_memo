@@ -1,11 +1,11 @@
 勉強内容のメモ
 
-### #1. Implicit Animations
+### 1. Implicit Animations
 	[[1-1. Implicitly Animated Widgets]]
 	[[1-2. AnimatedContainer]]
 	[[1-3. TweenAnimationBuilder]]
 
-### #2. Explicit Animations
+### 2. Explicit Animations
 	[[2-1. Implicit vs Explicit]]
 	[[2-2. AnimationController]]
 	[[2-3. AnimatedBuilder]]
@@ -44,4 +44,5 @@
 
 ### 7. Material Motion
 	[[7-1. OpenContainer]]
+	[[7-2. PageTransitionSwitcher]]
 	
