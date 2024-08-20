@@ -48,4 +48,5 @@
 
 ### 8.Wallet Project
 	[[8-1. Animate Widget]]
+	[[8-2. AnimateList]]
 	
