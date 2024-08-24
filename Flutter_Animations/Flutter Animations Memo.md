@@ -52,4 +52,5 @@
 	[[8-3. animate - target]]
 	[[8-4. AbsorbPointer]]
 	[[8-5. Card animation - hero animate with Material class]]
-	[[8-6. Card animation - ]]
+	[[8-6. Card animation - Partial animation in Column]]
+	
