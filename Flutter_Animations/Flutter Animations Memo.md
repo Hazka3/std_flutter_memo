@@ -51,4 +51,5 @@
 	[[8-2. AnimateList]]
 	[[8-3. animate - target]]
 	[[8-4. AbsorbPointer]]
-	
+	[[8-5. Card animation - hero animate with Material class]]
+	[[8-6. Card animation - ]]
