@@ -5,12 +5,12 @@
 SQL (Structured Query Language) とは、データベース管理システム (RDBMS - Relational data base management system) のデータを管理するため設計されたプログラミング言語で、多くのDB関連プログラムがSQLを標準として採択している。
 
 SQLは以下のように更に細分化することができる。
--  <font color="#0070c0">DDL (Data Definition Language)</font>
+-  [[DDL (Data Definition Language)]]
 	データではなく、DBそのものの構造を作成・変更・削除に用いられる命令
 		`ex) CREATE, DROP, RENAME
 
 -  <font color="#0070c0">DML (Data Manipulation Language)</font>
-	DB内のデータに対する操作を行う命令
+	DB内のデータに対する操作を行う命令で、さらに update と query でカテゴリーを分けることができる。 <font color="#d83931">query 命令は、 SELECT のみが該当する</font>
 		`ex) SELECT, INSERT, UPDATE, DELETE 
 
 - #### <font color="#0070c0">TCL (Transaction Control Language)</font>
